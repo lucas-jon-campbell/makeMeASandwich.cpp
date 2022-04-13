@@ -19,6 +19,5 @@ int main ()
     bunGenerator(1);
     cout << "\n";
 
-
     return 0;
 }
